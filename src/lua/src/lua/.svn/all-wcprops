@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lua
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lua/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lua/README
+END
+lua.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lua/lua.c
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src
+END
+lstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lstate.h
+END
+ltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ltable.c
+END
+llex.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/llex.c
+END
+ltable.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ltable.h
+END
+llex.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/llex.h
+END
+lopcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lopcodes.h
+END
+lzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lzio.c
+END
+ldo.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ldo.c
+END
+lzio.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lzio.h
+END
+ldo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ldo.h
+END
+lundump.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lundump.c
+END
+lapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lapi.c
+END
+lundump.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lundump.h
+END
+lapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lapi.h
+END
+ltm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ltm.c
+END
+lvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lvm.c
+END
+ltm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ltm.h
+END
+ldebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ldebug.c
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lvm.h
+END
+lgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lgc.c
+END
+lfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lfunc.c
+END
+ldebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ldebug.h
+END
+lparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lparser.c
+END
+lgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lgc.h
+END
+lfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lfunc.h
+END
+lparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lparser.h
+END
+ltests.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/ltests.c
+END
+llimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/llimits.h
+END
+lobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lobject.c
+END
+lstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lstring.c
+END
+lcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lcode.c
+END
+lstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lstring.h
+END
+lobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lobject.h
+END
+lmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lmem.c
+END
+lcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lcode.h
+END
+lstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lstate.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/Makefile
+END
+lmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/56/trunk/Vision/src/lua/src/lmem.h
+END

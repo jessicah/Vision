@@ -1,0 +1,2 @@
+obj/ServerAgent.o : Makefile
+dep/ServerAgent.d obj/ServerAgent.o: src/ServerAgent.cpp src/ClientAgent.h   src/ClientAgentLogger.h src/ObjectList.h src/ClientWindow.h   src/ChannelAgent.h src/DCCConnect.h src/ListAgent.h src/MessageAgent.h   src/NetworkManager.h src/NotifyList.h src/ServerAgent.h src/VisionBase.h   src/VisionMessages.h src/StatusView.h src/Utilities.h src/Vision.h   src/WindowList.h

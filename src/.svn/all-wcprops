@@ -1,0 +1,743 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/vision/!svn/ver/940/trunk/Vision/src
+END
+PrefFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefFont.cpp
+END
+NetworkManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NetworkManager.cpp
+END
+ChannelOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ChannelOptions.cpp
+END
+ParseCTCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ParseCTCP.cpp
+END
+ServerAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ServerAgent.cpp
+END
+ChannelAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ChannelAgent.cpp
+END
+PrefGeneral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefGeneral.cpp
+END
+SpeedButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/SpeedButton.cpp
+END
+ClientAgentLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ClientAgentLogger.cpp
+END
+ColorSwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColorSwatch.h
+END
+SetupWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/SetupWindow.h
+END
+Vision.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/879/trunk/Vision/src/Vision.rsrc
+END
+NamesView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NamesView.cpp
+END
+ColorTools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColorTools.cpp
+END
+PrefColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefColor.h
+END
+PlayButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PlayButton.cpp
+END
+ClientAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClientAgent.h
+END
+PrefEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefEvent.h
+END
+MessageAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/MessageAgent.cpp
+END
+PrefAliases.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefAliases.h
+END
+RunView.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/RunView.h
+END
+PrefDCC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefDCC.cpp
+END
+PrefsWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefsWindow.cpp
+END
+AboutWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/AboutWindow.h
+END
+DCCConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/928/trunk/Vision/src/DCCConnect.h
+END
+WindowList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/WindowList.h
+END
+NumericFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NumericFilter.cpp
+END
+NotifyList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NotifyList.h
+END
+LuaScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/LuaScript.h
+END
+ClientWindowDock.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClientWindowDock.h
+END
+Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Utilities.h
+END
+Prompt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Prompt.cpp
+END
+IconMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/IconMenu.h
+END
+DCCHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/DCCHandler.cpp
+END
+ColorSwatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ColorSwatch.cpp
+END
+SetupWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/SetupWindow.cpp
+END
+PrefFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefFont.h
+END
+ServerAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/917/trunk/Vision/src/ServerAgent.h
+END
+PrefCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefCommand.cpp
+END
+ChannelAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ChannelAgent.h
+END
+HistoryList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/HistoryList.cpp
+END
+PrefAliases.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefAliases.cpp
+END
+PrefEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefEvent.cpp
+END
+NameItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NameItem.cpp
+END
+ResizeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ResizeView.h
+END
+ClientAgentLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClientAgentLogger.h
+END
+AboutWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/AboutWindow.cpp
+END
+ColorTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColorTools.h
+END
+NotifyList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NotifyList.cpp
+END
+PlayButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PlayButton.h
+END
+LuaScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/LuaScript.cpp
+END
+Vision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/Vision.cpp
+END
+MessageAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/930/trunk/Vision/src/MessageAgent.h
+END
+TestScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/TestScript.h
+END
+VTextControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/VTextControl.cpp
+END
+ClientWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClientWindow.h
+END
+PrefsWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefsWindow.h
+END
+NetPrefsServerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NetPrefsServerView.h
+END
+ColorSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ColorSelector.cpp
+END
+NetworkWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NetworkWindow.cpp
+END
+DCCFileWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/DCCFileWindow.cpp
+END
+StatusView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/StatusView.h
+END
+ClientAgentInputFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ClientAgentInputFilter.cpp
+END
+ClickView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClickView.h
+END
+Prompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Prompt.h
+END
+ParseENums.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ParseENums.h
+END
+ColumnTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColumnTypes.h
+END
+ColumnListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColumnListView.h
+END
+NetworkPrefsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vision/!svn/ver/923/trunk/Vision/src/NetworkPrefsView.h
+END
+ResizeView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ResizeView.cpp
+END
+PrefApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefApp.cpp
+END
+ParseCmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ParseCmd.cpp
+END
+ListAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ListAgent.h
+END
+ParseEvents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ParseEvents.cpp
+END
+PrefCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefCommand.h
+END
+HistoryList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/HistoryList.h
+END
+PrefLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefLog.h
+END
+TestScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/TestScript.cpp
+END
+VisionMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/920/trunk/Vision/src/VisionMessages.h
+END
+URLCrunch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/URLCrunch.cpp
+END
+SettingsFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/SettingsFile.h
+END
+ClientWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ClientWindow.cpp
+END
+Theme.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Theme.h
+END
+NetPrefsServerView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NetPrefsServerView.cpp
+END
+Vision.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vision/!svn/ver/927/trunk/Vision/src/Vision.h
+END
+StatusView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/StatusView.cpp
+END
+ClickView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClickView.cpp
+END
+VTextControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/VTextControl.h
+END
+ParseENums.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ParseENums.cpp
+END
+ColumnTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColumnTypes.cpp
+END
+NetworkMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NetworkMenu.h
+END
+ColumnListView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ColumnListView.cpp
+END
+NetworkPrefsView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NetworkPrefsView.cpp
+END
+ColorSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/468/trunk/Vision/src/ColorSelector.h
+END
+ServerEntryWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ServerEntryWindow.h
+END
+NetworkWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NetworkWindow.h
+END
+DCCFileWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/DCCFileWindow.h
+END
+ClientAgentInputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ClientAgentInputFilter.h
+END
+NetworkManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/920/trunk/Vision/src/NetworkManager.h
+END
+ChannelOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ChannelOptions.h
+END
+ListAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ListAgent.cpp
+END
+PrefColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefColor.cpp
+END
+ClientAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ClientAgent.cpp
+END
+PrefLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/PrefLog.cpp
+END
+RunView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/RunView.cpp
+END
+PrefGeneral.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefGeneral.h
+END
+SettingsFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/SettingsFile.cpp
+END
+SpeedButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/SpeedButton.h
+END
+PrefApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefApp.h
+END
+Theme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Theme.cpp
+END
+DCCConnect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/DCCConnect.cpp
+END
+WindowList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/WindowList.cpp
+END
+ObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/ObjectList.h
+END
+ClientWindowDock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ClientWindowDock.cpp
+END
+VisionBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/932/trunk/Vision/src/VisionBase.h
+END
+Names.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/Names.h
+END
+URLCrunch.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/URLCrunch.h
+END
+PrefDCC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/PrefDCC.h
+END
+Utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/Utilities.cpp
+END
+NumericFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/NumericFilter.h
+END
+IconMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vision/!svn/ver/916/trunk/Vision/src/IconMenu.cpp
+END
+NetworkMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/NetworkMenu.cpp
+END
+ServerEntryWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/vision/!svn/ver/940/trunk/Vision/src/ServerEntryWindow.cpp
+END

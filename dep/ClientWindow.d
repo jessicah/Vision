@@ -1,0 +1,2 @@
+obj/ClientWindow.o : Makefile
+dep/ClientWindow.d obj/ClientWindow.o: src/ClientWindow.cpp src/ChannelAgent.h src/ClientAgent.h   src/ObjectList.h src/ClientWindow.h src/ClientWindowDock.h   src/IconMenu.h src/ListAgent.h src/Names.h src/NetworkMenu.h   src/NotifyList.h src/ResizeView.h src/ServerAgent.h src/VisionBase.h   src/VisionMessages.h src/SettingsFile.h src/StatusView.h src/Vision.h   src/VTextControl.h src/WindowList.h
